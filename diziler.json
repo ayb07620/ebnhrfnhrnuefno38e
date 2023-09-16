@@ -12055,5 +12055,1407 @@
         ]
       }
     ]
+  },
+  {
+    "Ad": "Lucifer",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10151/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10152/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10153/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10154/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10155/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10156/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10157/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10158/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10159/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10160/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/10161/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/10162/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/10163/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 2",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10164/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10165/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10166/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10167/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10168/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10169/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10170/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10171/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10172/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10173/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/10174/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/10175/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/10176/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/10177/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/10178/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/10179/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/10180/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 18",
+            "M3ULink": "https://storage.diziyou.co/episodes/10181/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 3",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10182/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10183/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10184/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10185/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10186/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10187/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10188/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10189/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10190/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10191/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/10192/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/10193/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/10194/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/10195/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/10196/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/10197/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/10198/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 18",
+            "M3ULink": "https://storage.diziyou.co/episodes/10199/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 19",
+            "M3ULink": "https://storage.diziyou.co/episodes/10200/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 20",
+            "M3ULink": "https://storage.diziyou.co/episodes/10201/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 21",
+            "M3ULink": "https://storage.diziyou.co/episodes/10202/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 22",
+            "M3ULink": "https://storage.diziyou.co/episodes/10203/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 23",
+            "M3ULink": "https://storage.diziyou.co/episodes/10204/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 24",
+            "M3ULink": "https://storage.diziyou.co/episodes/10205/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 25",
+            "M3ULink": "https://storage.diziyou.co/episodes/10206/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 26",
+            "M3ULink": "https://storage.diziyou.co/episodes/10207/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 4",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10208/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10209/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10210/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10211/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10212/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10213/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10214/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10215/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10216/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10217/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 5",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10218/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10219/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10220/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10221/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10222/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10223/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10224/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10225/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10226/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10227/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/10228/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/10229/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/10230/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/10231/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/10232/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/10233/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 6",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10234/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10235/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10236/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10237/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10238/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10239/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10240/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10241/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10242/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10243/play.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ad": "Locke & Key",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/12651/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/12652/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/12653/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/12654/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/12655/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/12656/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/12657/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/12658/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/12659/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/12660/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 2",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/12661/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/12662/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/12663/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/12664/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/12665/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/12666/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/12667/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/12668/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/12669/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/12670/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 3",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/12671/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/12672/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/12673/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/12674/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/12675/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/12676/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/12677/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/12678/play.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ad": "La Casa de Papel: Kore",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/22401/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/22402/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/22403/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/22404/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/22405/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/22406/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/22407/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/22408/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/22409/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/22410/play.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ad": "Lost",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60701/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60702/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60703/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60704/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60705/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60706/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/60707/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/60708/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/60709/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/60710/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/60711/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/60712/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/60713/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/60714/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/60715/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/60716/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/60717/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 18",
+            "M3ULink": "https://storage.diziyou.co/episodes/60718/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 19",
+            "M3ULink": "https://storage.diziyou.co/episodes/60719/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 20",
+            "M3ULink": "https://storage.diziyou.co/episodes/60720/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 21",
+            "M3ULink": "https://storage.diziyou.co/episodes/60721/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 22",
+            "M3ULink": "https://storage.diziyou.co/episodes/60722/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 23",
+            "M3ULink": "https://storage.diziyou.co/episodes/60723/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 24",
+            "M3ULink": "https://storage.diziyou.co/episodes/60724/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 25",
+            "M3ULink": "https://storage.diziyou.co/episodes/60725/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 2",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60726/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60727/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60728/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60729/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60730/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60731/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/60732/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/60733/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/60734/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/60735/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/60736/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/60737/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/60738/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/60739/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/60740/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/60741/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/60742/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 18",
+            "M3ULink": "https://storage.diziyou.co/episodes/60743/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 19",
+            "M3ULink": "https://storage.diziyou.co/episodes/60744/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 20",
+            "M3ULink": "https://storage.diziyou.co/episodes/60745/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 21",
+            "M3ULink": "https://storage.diziyou.co/episodes/60746/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 22",
+            "M3ULink": "https://storage.diziyou.co/episodes/60747/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 23",
+            "M3ULink": "https://storage.diziyou.co/episodes/60748/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 24",
+            "M3ULink": "https://storage.diziyou.co/episodes/60749/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 3",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60750/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60751/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60752/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60753/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60754/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60755/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/60756/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/60757/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/60758/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/60759/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/60760/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/60761/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/60762/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/60763/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/60764/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/60765/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/60766/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 18",
+            "M3ULink": "https://storage.diziyou.co/episodes/60767/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 19",
+            "M3ULink": "https://storage.diziyou.co/episodes/60768/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 20",
+            "M3ULink": "https://storage.diziyou.co/episodes/60769/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 21",
+            "M3ULink": "https://storage.diziyou.co/episodes/60770/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 22",
+            "M3ULink": "https://storage.diziyou.co/episodes/60771/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 23",
+            "M3ULink": "https://storage.diziyou.co/episodes/60772/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 4",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60773/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60774/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60775/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60776/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60777/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60778/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/60779/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/60780/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/60781/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/60782/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/60783/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/60784/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/60785/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/60786/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 5",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60787/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60788/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60789/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60790/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60791/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60792/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/60793/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/60794/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/60795/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/60796/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/60797/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/60798/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/60799/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/60800/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/60801/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/60802/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/60803/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 6",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60804/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60805/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60806/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60807/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60808/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60809/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/60810/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/60811/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/60812/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/60813/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/60814/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/60815/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/60816/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 14",
+            "M3ULink": "https://storage.diziyou.co/episodes/60817/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 15",
+            "M3ULink": "https://storage.diziyou.co/episodes/60818/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 16",
+            "M3ULink": "https://storage.diziyou.co/episodes/60819/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 17",
+            "M3ULink": "https://storage.diziyou.co/episodes/60820/play.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ad": "La casa de papel",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10501/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10502/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10503/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10504/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10505/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10506/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10507/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10508/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10509/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10510/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 11",
+            "M3ULink": "https://storage.diziyou.co/episodes/10511/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 12",
+            "M3ULink": "https://storage.diziyou.co/episodes/10512/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 13",
+            "M3ULink": "https://storage.diziyou.co/episodes/10513/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 2",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10514/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10515/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10516/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10517/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10518/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10519/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10520/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10521/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10522/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 3",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10523/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10524/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10525/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10526/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10527/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10528/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10529/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10530/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 4",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10531/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10532/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10533/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10534/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10535/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10536/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10537/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10538/play.m3u8"
+          }
+        ]
+      },
+      {
+        "SezonAdi": "Sezon 5",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/10539/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/10540/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/10541/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/10542/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/10543/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/10544/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/10545/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/10546/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 9",
+            "M3ULink": "https://storage.diziyou.co/episodes/10547/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 10",
+            "M3ULink": "https://storage.diziyou.co/episodes/10548/play.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ad": "Ludik",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/21201/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/21202/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/21203/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/21204/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/21205/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/21206/play.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Ad": "Lockwood & Co.",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/27701/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/27702/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/27703/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/27704/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/27705/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/27706/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 7",
+            "M3ULink": "https://storage.diziyou.co/episodes/27707/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 8",
+            "M3ULink": "https://storage.diziyou.co/episodes/27708/play.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]

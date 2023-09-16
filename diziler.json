@@ -12021,5 +12021,39 @@
         ]
       }
     ]
+  },
+  {
+    "Ad": "Liaison",
+    "Sezonlar": [
+      {
+        "SezonAdi": "Sezon 1",
+        "Bolumler": [
+          {
+            "BolumAdi": "Bölüm 1",
+            "M3ULink": "https://storage.diziyou.co/episodes/60201/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 2",
+            "M3ULink": "https://storage.diziyou.co/episodes/60202/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 3",
+            "M3ULink": "https://storage.diziyou.co/episodes/60203/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 4",
+            "M3ULink": "https://storage.diziyou.co/episodes/60204/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 5",
+            "M3ULink": "https://storage.diziyou.co/episodes/60205/play.m3u8"
+          },
+          {
+            "BolumAdi": "Bölüm 6",
+            "M3ULink": "https://storage.diziyou.co/episodes/60206/play.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
